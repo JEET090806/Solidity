@@ -1,2 +1,2 @@
 # Solidity
-Just learning solidity
+Just Not learning solidity
