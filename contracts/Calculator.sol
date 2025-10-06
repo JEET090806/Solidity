@@ -10,7 +10,7 @@ pragma solidity ^0.8.0;
 contract Calculator {
     uint256 result = 0;
     
-    function add(uint256 num) internal{
+    function add(uint256 num) external{
         result += num;
     }
 

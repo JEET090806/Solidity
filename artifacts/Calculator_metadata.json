@@ -13,6 +13,19 @@
 						"type": "uint256"
 					}
 				],
+				"name": "add",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "num",
+						"type": "uint256"
+					}
+				],
 				"name": "division",
 				"outputs": [],
 				"stateMutability": "nonpayable",
@@ -86,11 +99,11 @@
 	},
 	"sources": {
 		"contracts/Calculator.sol": {
-			"keccak256": "0x261d5b74444b6854920831b5ecf183201c4241c4ecbc00b5c4fe7462b021fa2d",
+			"keccak256": "0x66afd5d287e20d8cd91eadfef9c426fc5b8777b12762e78ed9c057b54a67cf06",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b8c6c036226f4a36672483662caef9b87455aab6286ec497598ae6c25fe960a6",
-				"dweb:/ipfs/QmeAEkYETBP6pVq3QVqitFoZE7eaojuPHCMDym72HiHnC4"
+				"bzz-raw://2181a483ee6854172cdd5da58b840b74f928da903000ae5767d3e8942e17965c",
+				"dweb:/ipfs/QmVgU2hYQzfoBDCvid4AG4Ra9JU8wm4qQF1A6LGwcAcSqA"
 			]
 		}
 	},
